@@ -13,3 +13,4 @@ d=int(input("Enter the value of d:"))
 c,d= d,c
 print("value of c after swapping:",c)
 print("value of d after swapping:",d)
+
